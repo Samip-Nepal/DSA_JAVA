@@ -1,6 +1,6 @@
 package com.samipnepal;
 
-public class Demo {
+public class Linear_Binary_sort {
     static void main(String[] args) {
 
         //int[] array = {84, 74, 56, 87, 98};
